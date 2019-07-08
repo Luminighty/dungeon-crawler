@@ -1,0 +1,30 @@
+⛇ - Start
+⛿ - Finish
+
+⛫ - Door
+⛯ - Locked Door
+⛼ - Stuck Door
+⛬ - Cracked Door (Wall)
+
+█ - Wall
+⛆ - Water
+  - Tile
+▲ - Pegs
+
+⛣ - Bombs
+⛴ - Boat
+⇈ - Bow & Arrow
+⛏ - Hammer
+⚿ - Key
+⛋ - Treasure
+
+⚶ - Fire
+♙ - Green Slime
+♘ - Blue Slime
+♗ - Pink Slime
+
+To add:
+
+
+Can be used:
+⛯⛉⛊♗♖♕♔
